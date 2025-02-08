@@ -25,7 +25,7 @@ const RouteLayout = () => {
         {navigationState === "idle" && <Outlet />}
 
         <footer>
-          @avinashk20 
+          @aaravbaliyan
         </footer>
       </div>
     </>
